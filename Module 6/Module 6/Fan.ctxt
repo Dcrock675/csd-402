@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Fan
+comment0.text=\r\n\ Drew\ Crockett\r\n\ Module\ 6.2\r\n\ 2/7/26\r\n
+comment1.params=
+comment1.target=Fan()
+comment10.params=c
+comment10.target=void\ setColor(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=s\ o\ r\ c
+comment2.target=Fan(int,\ boolean,\ double,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getSpeed()
+comment4.params=s
+comment4.target=void\ setSpeed(int)
+comment5.params=
+comment5.target=boolean\ getOn()
+comment6.params=o
+comment6.target=void\ setOn(boolean)
+comment7.params=
+comment7.target=double\ getRadius()
+comment8.params=r
+comment8.target=void\ setRadius(double)
+comment9.params=
+comment9.target=java.lang.String\ getColor()
+numComments=12

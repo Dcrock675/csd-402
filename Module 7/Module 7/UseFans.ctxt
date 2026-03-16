@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UseFans
+comment1.params=fan
+comment1.target=void\ displayFan(Fan)
+comment2.params=fans
+comment2.target=void\ displayFanCollection(java.util.ArrayList)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
